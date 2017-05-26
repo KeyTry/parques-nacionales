@@ -1,0 +1,217 @@
+[ {
+    "Provincia": "Cartago",
+    "Nombre": "Tapantí",
+    "img": "Tapanti.jpg",
+    "Superficie": "58.323",
+    "Area": "La Amistad - Pacífico",
+    "Descripcion": "Esta es una de las zonas más lluviosas del país, con índices desde 6.500 hasta 8.000 m.m. de lluvia conforman un nivel normal, con aguaceros torrenciales de Marzo a Agosto, usualmente durante la tarde. Este parque contiene dos zonas de vida principales, el bosque bajo de montaña y la selva pre-montaña."
+  },
+  {
+    "Provincia": "Heredia",
+    "Nombre": "Braulio Carrillo",
+    "img": "BraulioCarrillo.jpg",
+    "Superficie": "47.580",
+    "Area": "Cordillera Volcánica Central",
+    "Descripcion": "Este parque nacional lleva el nombre del benemérito Dr. Braulio Carillo, un benefactor nacional y tercer presidente electo de Costa Rica. El parque se encuentra en una de las regiones con acceso mas difícil del país, casi todo el terreno se compone de rascacielos montañosos de origen volcánico.\nAquí es posible encontrar una gran cantidad de vida silvestre, en especial aves. Algunos de los mamíferos más comunes son monos, dantas, jaguares, pumas, venados, puerco espines y peresozos."
+  },
+  {
+    "Provincia": "San José",
+    "Nombre": "Los Quetzales",
+    "img": "LosQuetzales.jpg",
+    "Superficie": "5.021",
+    "Area": "Pacífico Central",
+    "Descripcion": "Este Parque presenta principalmente dos zonas de vida de acuerdo al Sistema de Holdridge: Bosque Pluvial Montano y Bosque Muy Húmedo Montano Bajo. Adicionalmente, algunas zonas altas de la cordillera presentan el Páramo subalpino.\nPor lo tanto, el área abarca tres tipos de bosque tropical, y catorce diferentes ecosistemas.Ubicado a gran altitud (entre 2.000 - 3.000 msnm) a lo largo de la cordillera de Talamanca, la mayor parte del Parque está cubierto de bosque nuboso y protege un hábitat crucial para un número de especies vegetales y animales."
+  },
+  {
+    "Provincia": "San José",
+    "Nombre": "La Cangreja",
+    "img": "LaCangreja.jpg",
+    "Superficie": "2.519",
+    "Area": "Pacífico Central",
+    "Descripcion": "La Cangreja contiene las últimas partes naturales inalteradas de toda la región de Puriscal, también es la principal fuente de abastecimiento de agua para algunas comunidades aledañas (Mastatal, San Vicente, San Miguel y el territorio indígena de Zapatón, entre otras) y sirve para estabilizar el clima local. Aquí se encuentran los ríos Negro y la Quebrada Grande. El Parque también cuenta con espectaculares cataratas y posee dos zonas de vida: bosque muy húmedo transición a premontano y bosque pluvial premontano."
+  },
+  {
+    "Provincia": "Alajuela",
+    "Nombre": "Volcán Arenal",
+    "img": "Arenal.jpg",
+    "Superficie": "12.124",
+    "Area": "Arenal - Tempisque",
+    "Descripcion": "Los más característico de este parque nacional es el impresionante y majestuoso Volcán Arenal, un cono casi perfecto de 1,633 metros de altura, cuyas erupciones regulares ofrecen uno de los panoramas naturales más extraordinarios e impactantes de Costa Rica.\nEl parque presenta una flora y fauna muy variada, comprendidad por sus cuatro zonas de vida: bosque muy húmedo tropical (transición), bosque pluvial montano, bosque pluvial montano bajo (transición), bosque muy húmedo premontano (transición) que cubre alrededor de un 47% del area. Entre las especies más conspicuas, encontramos: Guayabo de monte, Cebo, Ceiba, Cirri, Laurel, Higuerones, Pilón, Guarumo, Balsa, diferentes especies de palmas, heliconias, orquideas, helechos y bromelias incluyendo la especie endémica: Pitcaimia Funkiae."
+  },
+  {
+    "Provincia": "Alajuela",
+    "Nombre": "Juan Castro Blanco",
+    "img": "JuanCastroBlanco.jpg",
+    "Superficie": "14.453",
+    "Area": "Cordillera Volcánica Central",
+    "Descripcion": "En esta área ha sido posible identificar tres zonas principales, conteniendo las mismas una abundante vida natural con bosques pre-montanos, húmedo y muy húmedo, así como el bosque montañoso de baja altura.\nEste parque nacional ofrece a sus visitantes la posibilidad de apreciar mas de  44 especies de anfibios 15% del total nacional, 107 especies de aves,  30 mamíferos, de todas estas alrededor de 64 están calificadas en peligro de extinción en Costa Rica."
+  },
+  {
+    "Provincia": "Alajuela",
+    "Nombre": "Volcan Poás",
+    "img": "Poas.jpg",
+    "Superficie": "6.750",
+    "Area": "Cordillera Volcánica Central",
+    "Descripcion": "Poas es un volcán que sobrepasa los 2,700 metros de altura.  Este es uno de los volcanes más impresionante de Costa rica, con escenarios tropicales que le quitarán la respiración.  La tierra en este sector es ideal para la cultivación de productos y es una zona de considerable potencial para energía hidrológica y geotérmica."
+  },
+  {
+    "Provincia": "Guanacaste",
+    "Nombre": "Rincón de la Vieja",
+    "img": "Rincon.jpg",
+    "Superficie": "14.161",
+    "Area": "Guanacaste",
+    "Descripcion": "Rincón de la Vieja es un volcán que se encuentra a 1,916 metros sobre el nivel del mar, expandiéndose sobre 400 kilómetros cuadrados de terreno.  Su formación se debe a la explosión simultánea de varios conos volcánicos, que crecieron y se juntaron en una sola montaña.  Se han identificado nueve sitios independientes de actividad volcánica en el tope de la montaña. Uno está activo, los otros lentamente están siendo erosionados por los elementos."
+  },
+  {
+    "Provincia": "Cartago",
+    "Nombre": "Volcán Irazú",
+    "img": "Irazu.jpg",
+    "Superficie": "2.309",
+    "Area": "Cordillera Volcánica Central",
+    "Descripcion": "El parque nacional Irazu, o 'el barril de pólvora de la naturaleza' como se le ha llamado, es un volcán activo con una forma irregular de subcono, topando los 3,435 metros de altura sobre el nivel del mar, sobre un terreno de aproximadamente 500 kilómetros cuadrados."
+  },
+  {
+    "Provincia": "Cartago",
+    "Nombre": "Volcán Turrialba",
+    "img": "Turrialba.jpg",
+    "Superficie": "1.577",
+    "Area": "Cordillera Volcánica Central",
+    "Descripcion": "El Parque nacional Volcán Turrialba se ubica al noroeste del cantón de Turrialba, en Costa Rica. Su extensión es de 1.577 hectáreas. Este volcán se localiza en el extremo oriental de la Cordillera Volcánica Central y es el segundo volcán más alto del país con 3340 msnm."
+  },
+  {
+    "Provincia": "Guanacaste",
+    "Nombre": "Diriá",
+    "img": "Diria.jpg",
+    "Superficie": "2.800",
+    "Area": "Arenal - Tempisque",
+    "Descripcion": "En esta área de conservación se protegen tanto bosques tropicales secos cómo húmedos, estos se encuentran en las elevaciones superiores ubicadas cerca de las áreas montañosas centrales de la Península de Nicoya.\nSe incluye parte de los ríos Diriá, Tigre, Verde y Enmedio, los cuales crean un terreno de valles profundos con pendientes inclinadas."
+  },
+  {
+    "Provincia": "Guanacaste",
+    "Nombre": "Barra Honda",
+    "img": "BarraHonda.jpg",
+    "Superficie": "2.295",
+    "Area": "Arenal - Tempisque",
+    "Descripcion": "El parque nacional Barra Honda fue creado en 1971 para proteger un interesante sistema de cavernas. Aunque el parque ha sido acortado en el pasado, actualmente es hogar para diversas y abundantes especies, que disfrutan de protección estatal, lo que ha logrado que muchos grupos, antes en peligro, se recuperen.\nLas referidas cavernas sirven de hábitat a diversas especies de murciélagos. El clima, húmedo y cálido, ha favorecido el desarrollo de una vegetación de madroños, Poroporo, cocobolo, caoba, pochote, gallinazo, indio desnudo y peine de mico, que constituyen el hábitat y el alimento para numerosos venados, zopilotes, coyotes, armadillos, osos hormigueros, ardillas y monos congo que poblan el parque."
+  },
+  {
+    "Provincia": "Guanacaste",
+    "Nombre": "Guanacaste",
+    "img": "ParqueGuanacaste.jpg",
+    "Superficie": "35.200",
+    "Area": "Guanacaste",
+    "Descripcion": "El parque nacional de Guanacaste se localiza en la parte este de la carretera Interamericana, frente al parque nacional de Santa Rosa. Creado en1989 para la protección de los bosques tropicales en las laderas de los volcanes Orosi y Cacao, este proyecto fue fundado con el fin de proteger las rutas migratorias de cientos de animales que emigran hacia tierras altas durante las temporadas secas. El parque contiene varios senderos muy interesantes, así como varias estaciones de estudio, de las cuales por lo menos una está abierta al público, fotógrafos e investigadores. En Diciembre de 1999, el Área de Conservación Guanacaste fue declarada por la UNESCO como Patrimonio y herencia natural de la Humanidad."
+  },
+  {
+    "Provincia": "Guanacaste",
+    "Nombre": "Marino Las Baulas",
+    "img": "LasBaulas.jpg",
+    "Superficie": "271.450",
+    "Area": "Tempisque",
+    "Descripcion": "440 hectáreas de este parque consisten en pantanos de manglar en tamarindo.  Hay seis especies conocidas de manglar que crecen en estas costas pacíficas, donde una abundancia de manglar negro se pueden observar, lo que sugiere grandes concentraciones de sal en los pantanos de Tamarindo.\nPlaya Grande es uno de los lugares mas importantes para el desove de la tortuga. Esta es una de las tortugas mas grandes y de mas alcance en el mar, desovando desde las playas de  Surinam hasta Malasia, incluso algunos individuos han sido reportados en las costas de Escandinavia.  Las Baulas arriban en Tamarindo a principios de Octubre y la temporada se extiende hasta Marzo, con actividad en un tope durante Noviembre y Diciembre."
+  },
+  {
+    "Provincia": "Guanacaste",
+    "Nombre": "Palo Verde",
+    "img": "PaloVerde.jpg",
+    "Superficie": "18.418",
+    "Area": "Arenal - Tempisque",
+    "Descripcion": "El Parque Nacional de Palo Verde protege una porción del río Tempisque, donde se encuentran las bajuras, un hábitat increíblemente diverso, donde se unen las aguas saladas y la dulce, combinando bosques deciduos con selva tropical. Estos sectores son de gran importancia ya que al estar cubiertos por agua (humedales) que proporcionan puntos de parada para animales migratorios, sobre todo entre los meses de Enero y Febrero, dándose aquí la mayor concentración de aves en Centro América."
+  },
+  {
+    "Provincia": "Guanacaste",
+    "Nombre": "Santa Rosa",
+    "img": "SantaRosa.jpg",
+    "Superficie": "38.674",
+    "Area": "Guanacaste",
+    "Descripcion": "El Parque Nacional Santa Rosa fue creado en 1971 para conmemorar y preservar un lugar histórico donde se llevó a cabo la Batalla de Santa Rosa (Marzo 20, 1856) incluyendo la histórica mansión y los corrales de muros de piedra. Más aun, sirve de protección a la sabana, bosque tropical seco, pastizales, manglares y la abundante vida silvestre, que incluye algunas especies en peligro de extinción. También posee algunas playas muy hermosas."
+  },
+  {
+    "Provincia": "Guanacaste",
+    "Nombre": "Volcán Tenorio",
+    "img": "Tenorio.jpg",
+    "Superficie": "12.872",
+    "Area": "Arenal - Tempisque",
+    "Descripcion": "La región protegida por el Parque nacional Volcán Tenorio se considera de gran valor natural. El sitio cuenta con grandes territorios de bosque virgen, dado que la intrusión humana ha sido relativamente poca. Esto ha permitido la conservación de hábitats naturales vitales para la preservación de especies en peligro de extinción, como el tepezcuintle, la danta y el puma.\nEn las faldas del volcán Tenorio nacen numerosos ríos y riachuelos, siendo los más importantes el río Chimurria, de gran valor hidrológico, y el río Celeste, de notable valor turístico."
+  },
+  {
+    "Provincia": "Limón",
+    "Nombre": "Cahuita",
+    "img": "Cahuita.jpg",
+    "Superficie": "23.467",
+    "Area": "Amistad Caribe",
+    "Descripcion": "El parque nacional de Cahuita esta localizado en la ciudad de Cahuita, 43 kilómetros sur de Limón,  en la Costa Caribe del país, una de las regiones mas espectaculares del país.  Su principal atracción es las arenas blancas y sin fin de árboles de cocos en la playa, acompañado de una mar de aguas tranquilas y cristalinas, con arrecifes de coral cerca de la orilla."
+  },
+  {
+    "Provincia": "Limón",
+    "Nombre": "Tortuguero",
+    "img": "Tortuguero.jpg",
+    "Superficie": "23.467",
+    "Area": "Tortuguero",
+    "Descripcion": "El Parque Nacional de Tortuguero se encuentra localizado en la zona nor-este de Costa Rica.  Este es uno de los parques mas conocidos a nivel internacional, y por buenas razones.  Además de ser una  de las locaciones mas importantes para el desove de tortugas baulas y otras, este ecosistema es tan diverso como la naturaleza misma."
+  },
+  {
+    "Provincia": "Limón",
+    "Nombre": "Chirripó",
+    "img": "Chirripo.jpg",
+    "Superficie": "50.849",
+    "Area": "La Amistad - Pacífico",
+    "Descripcion": "El parque nacional de Chirripo, el cual contiene el punto más alto de Costa Rica con 3.820 metros  de altura sobre el nivel del mar, se encuentra localizado cerca de la ciudad de San Isidro del General, aproximadamente 60 millar al sur-este de la ciudad de San José.  La ruta principal al parque se encuentra por la cuidad de San Gerardo de Rivas, hacia el nor-este."
+  },
+  {
+    "Provincia": "Puntarenas",
+    "Nombre": "Corcovado",
+    "img": "Corcovado.jpg",
+    "Superficie": "42.469",
+    "Area": "Osa",
+    "Descripcion": "El parque nacional Corcovado se localiza en la península de Osa, en la esquina sur-oeste del país, localizado en un sitio de indudable belleza, esta reserva natural se considera como la más importante del país. El bosque vírgen cautiva a los visitantes mientras los envuelve con los olores y colores de la jungla.  Este parque posee millas de playas desiertas, cascadas naturales, despertando la curiosidad de visitantes a través del mundo."
+  },
+  {
+    "Provincia": "Puntarenas",
+    "Nombre": "Isla del Coco",
+    "img": "IslaDelCoco.jpg",
+    "Superficie": "99.725",
+    "Area": "Isla del Coco",
+    "Descripcion": "La Isla del Coco es un verde y exuberante paraíso en medio del océano. La isla fue descubierta por el navegante español Joan Cabezas en 1526; y se menciona por primera vez en 1541 como 'Coques' en el mapa cartográfico de Nicolás Desliens. Gracias a su lejanía de la civilización, la gran diversidad de vida silvestre y marina y a su abundante agua potable, esta isla oceánica se ha convertido en un lugar de renombre en el mundo entero. Durante los siglos 17 y 18 fue un excelente escondite para los piratas, que la utilizaron como reserva de comida, agua y madera."
+  },
+  {
+    "Provincia": "Puntarenas",
+    "Nombre": "Internacional La Amistad",
+    "img": "LaAmistad.jpg",
+    "Superficie": "193.929",
+    "Area": "Amistad Pacífico",
+    "Descripcion": "Este es el parque mas grande y remoto de Costa Rica, así como uno de los menos conocidos - esta vasta aglomeración de tierra corre por las laderas continentales al sur del país. La mitad del parque se encuentra en Costa Rica, la cual comparte el resto con Panamá, y representa los primeros intentos por crear y manejar áreas protegidas internacionalmente. En el año 1983, La Reserva La Amistad - Parque Nacional fue declarada por la UNESCO como Patrimonio y herencia natural de la Humanidad."
+  },
+  {
+    "Provincia": "Puntarenas",
+    "Nombre": "Manuel Antonio",
+    "img": "ManuelAntonio.jpg",
+    "Superficie": "56.983",
+    "Area": "Pacífico Central",
+    "Descripcion": "Con uno de los paisajes mas impresionantes de todo Costa Rica, el parque cuenta con arenas blancas y verdes follajes en medio de grandes montañas. Aquí los aventurosos tendrán un sin fin de actividades para realizar, desde caminatas en los senderos del parque, hasta excursiones en kayac por los alrededores de la costa, paseos a caballo o pesca, de todo para todos en Manuel Antonio."
+  },
+  {
+    "Provincia": "Puntarenas",
+    "Nombre": "Marino Ballena",
+    "img": "MarinoBallena.jpg",
+    "Superficie": "5.485",
+    "Area": "Osa",
+    "Descripcion": "El parque nacional de Ballena es uno de los mas nuevos de Costa Rica.  Se creo con la finalidad de conservar los habitats marinos de la región Sur-Pacifico del país, los cuales estuvieron en peligro por la sobre pesca, tala de árboles y el desarrollo turístico sin guía o planificación.  Bordeado al  sur por Punta Piñuela, se extiende al mar por 9 kilómetros, bajando hasta Punta Uvita 6 kilómetros al norte. Este parque es ideal para toda clase de actividades relacionadas con el mar, desde recoger conchas en la playa hasta estudios biológicos y marinos de renombre alrededor del mundo."
+  },
+  {
+    "Provincia": "Puntarenas",
+    "Nombre": "Piedras Blancas",
+    "img": "PiedrasBlancas.jpg",
+    "Superficie": "14.153",
+    "Area": "Osa",
+    "Descripcion": "El PNPB consiste principalmente en filas angostas y pendientes abruptas cubiertas con bosques primarios y una zona plana con pastizales. El Río Esquinas (el cual recibe este nombre debido a sus numerosos meandros) delimita de forma natural los sectores norte y oeste del parque. Varias quebradas y arroyos atraviesan el parque y desembocan en el río Esquinas."
+  },
+  {
+    "Provincia": "Puntarenas",
+    "Nombre": "Carara",
+    "img": "Carara.jpg",
+    "Superficie": "5.242",
+    "Area": "Pacífico Central",
+    "Descripcion": "El parque nacional de Carara es un favorito para cualquiera interesado en el estudio de la biología tropical.  La gran variedad de diversidad y el fácil acceso hace de este viaje uno que de verdad vale la pena.  La zona de conservación presenta un razgo muy particular, esta es la zona de transición entre el bosque seco del norte y la selva lluviosa del sur."
+  }
+]

@@ -1,0 +1,22 @@
+[ {
+  "Nombre": "San José",
+  "img": "static/SanJose.jpg"
+}, {
+  "Nombre": "Alajuela",
+  "img": "static/Alajuela.jpg"
+}, {
+  "Nombre": "Cartago",
+  "img": "static/Cartago.jpg"
+}, {
+  "Nombre": "Heredia",
+  "img": "static/Heredia.jpg"
+}, {
+  "Nombre": "Guanacaste",
+  "img": "static/Guanacaste.jpg"
+}, {
+  "Nombre": "Puntarenas",
+  "img": "static/Puntarenas.jpg"
+}, {
+  "Nombre": "Limón",
+  "img": "static/Limon.jpg"
+} ]
